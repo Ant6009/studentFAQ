@@ -3,16 +3,102 @@
         "_id": "c-05",
         "_parentId": "b-05",
         "_type": "component",
-        "_component": "text",
+        "_component": "accordion",
         "_classes": "",
-        "_layout": "left",
-        "title": "Introduction",
-        "displayTitle": "",
-        "body": "Adapt allows you to combine <b>Text</b> and <b>Graphic</b> components on the scrolling page to create rich and varied learning experiences. In addition, a wide range of interactive components are also available to help encourage deeper engagement with the material.<br><br><b>These presentation components can be structured</b> in any way to help you create learning experiences that meet the needs of your learners.<br><br>In addition, if your course is being launched from an <abbr title='Learning Management System'>LMS</abbr> or <abbr title='Learning Record Store'>LRS</abbr>, you can personalise the course content by having the learner's name dynamically displayed in the body, instruction or feedback text.",
-        "instruction": "{{_globals._learnerInfo.firstname}}, scroll down to see what presentation components are available as part of the core bundle.",
-        "_pageLevelProgress": {
-            "_isEnabled": true,
-            "_isCompletionIndicatorEnabled": false
-        }
+        "_layout": "full",
+        "title": "Accordion",
+        "displayTitle": "Pass Grades",
+        "body": "",
+        "instruction": "Select the headings to find out more.",
+        "_shouldCollapseItems": true,
+        "_shouldExpandFirstItem": false,
+        "_comment": "setCompletionOn = inview | allItems",
+        "_setCompletionOn": "allItems",
+        "_items": [
+            {
+              "title": "What grade do I need to pass the module?",
+              "body": "The pass grade for undergraduate modules is 40% <br>The pass grade for postgraduate modules is 50% <br>(Note that some modules will have pass/fail assessment elements and some specialist assessments may have higher pass grades, so always check with your module coordinator).",
+              "_imageAlignment": "full",
+              "_graphic": {
+                  "src": "",
+                  "alt": "",
+                  "attribution": ""
+              },
+              "_classes": ""
+            },
+            {
+              "title": "What do I do if I am unhappy with the mark I receive for my assessment?",
+              "body": "<p>Firstly, contact the module coordinator or the person who marked your assessment to discuss your mark and feedback. They will explain why you received a particular grade.</p><p>If you feel there were extenuating circumstances that impacted your performance and these were not previously available at the Exam Board, you can follow the <a href='https://ulster.ac.uk/strudent/exams/appeals'>student appeals</a> procedure.</p><p>If you feel that there were procedural irregularities associated with the assessment, you can follow the <a href='https://ulster.ac.uk/strudent/exams/appeals'>student appeals</a> procedure.</p>",
+              "_imageAlignment": "full",
+              "_graphic": {
+                  "src": "",
+                  "alt": "",
+                  "attribution": ""
+              },
+              "_classes": ""
+            },
+            {
+              "title": "What will happen if I do not pass this module?",
+              "body": "If you fail a module, you will get two more attempts. Check with your module coordinator for revision support and for the re-sit schedule.",
+              "_imageAlignment": "",
+              "_graphic": {
+                  "src": "",
+                  "alt": "",
+                  "attribution": ""
+              },
+              "_classes": ""
+            }
+        ]
+    },
+    {
+        "_id": "c-10",
+        "_parentId": "b-10",
+        "_type": "component",
+        "_component": "accordion",
+        "_classes": "",
+        "_layout": "full",
+        "title": "Accordion",
+        "displayTitle": "Failing an Assessment or Module",
+        "body": "",
+        "instruction": "Select the headings to find out more.",
+        "_shouldCollapseItems": true,
+        "_shouldExpandFirstItem": false,
+        "_comment": "setCompletionOn = inview | allItems",
+        "_setCompletionOn": "allItems",
+        "_items": [
+            {
+              "title": "What happens if I fail one element of the assessment? ",
+              "body": "<p>If you fail an assessment, firstly don’t panic!</p><p>In some module instances and where there is more than one assessment element, an overall module mark will be calculated. If you failed one element at 35-39% but passed the other element(s), then you may still have passed the module overall. Check your status with your module coordinator.</p><p>However, if your grade was below 35%, or the element was compulsory to pass the module, you will still get two further attempts at the assessment. Check with your module coordinator for revision support and for the re-sit schedule.</p><a href='https://ulster.sharepoint.com/:w:/r/sites/courseteamhandbook/_layouts/15/Doc.aspx?sourcedoc=%7B97AD4D51-6409-4B70-B273-D98CA1AA6E5F%7D&file=Consequences%20of%20Failure.docx&wdLOR=cE13FE606-4BC5-A74C-86C6-E8A05E32A3DF&action=default&mobileredirect=true>Consequences of failure</a>",
+              "_imageAlignment": "full",
+              "_graphic": {
+                  "src": "",
+                  "alt": "",
+                  "attribution": ""
+              },
+              "_classes": ""
+            },
+            {
+              "title": "What do I do if I am unhappy with the mark I receive for my assessment?",
+              "body": "<p>Firstly, contact the module coordinator or the person who marked your assessment to discuss your mark and feedback. They will explain why you received a particular grade.</p><p>If you feel there were extenuating circumstances that impacted your performance and these were not previously available at the Exam Board, you can follow the <a href='https://ulster.ac.uk/strudent/exams/appeals'>student appeals</a> procedure.</p><p>If you feel that there were procedural irregularities associated with the assessment, you can follow the <a href='https://ulster.ac.uk/strudent/exams/appeals'>student appeals</a> procedure.</p>",
+              "_imageAlignment": "full",
+              "_graphic": {
+                  "src": "",
+                  "alt": "",
+                  "attribution": ""
+              },
+              "_classes": ""
+            },
+            {
+              "title": "I have passed my assessment, but I am not happy with my mark. Can I retake the assessment?",
+              "body": "Assessment retakes (re-sits) are typically only available if you happen to fail an exam or piece of coursework that would lead to you failing a module. If you achieve a minimum pass grade or above (40% or above for undergraduate or 50% or above at postgraduate) then that grade will be confirmed at Exam Board, and you will not have another opportunity to retake. Sometimes, a module will have more than one element of assessment. (check the 35% rule here)",
+              "_imageAlignment": "",
+              "_graphic": {
+                  "src": "",
+                  "alt": "",
+                  "attribution": ""
+              },
+              "_classes": ""
+            }
+        ]
     }
 ]

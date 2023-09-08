@@ -8,11 +8,17 @@
         "displayTitle": "",
         "body": "",
         "instruction": "",
-        "_trackingId": 0,
-        "_onScreen": {
-            "_isEnabled": true,
-            "_classes": "fade-in-bottom",
-            "_percentInviewVertical": 50
-        }
+        "_trackingId": 0
+    },
+    {
+        "_id": "b-10",
+        "_parentId": "a-10",
+        "_type": "block",
+        "_classes": "",
+        "title": "accordion block",
+        "displayTitle": "",
+        "body": "",
+        "instruction": "",
+        "_trackingId": 1
     }
 ]
