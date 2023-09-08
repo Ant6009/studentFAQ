@@ -1,0 +1,18 @@
+[
+    {
+        "_id": "b-05",
+        "_parentId": "a-05",
+        "_type": "block",
+        "_classes": "",
+        "title": "b-05",
+        "displayTitle": "",
+        "body": "",
+        "instruction": "",
+        "_trackingId": 0,
+        "_onScreen": {
+            "_isEnabled": true,
+            "_classes": "fade-in-bottom",
+            "_percentInviewVertical": 50
+        }
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "_id": "co-05",
+        "_parentId": "course",
+        "_type": "page",
+        "_classes": "",
+        "_htmlClasses": "",
+        "title": "Presentation Components",
+        "displayTitle": "Presentation Components",
+        "body": "Find out what presentation components are available within the core bundle and how you might consider using them within your courses.",
+        "pageBody": "",
+        "instruction": "Scroll down to see what presentation components are available as part of the v5 core bundle.",
+        "_graphic": {
+            "src": "course/en/images/menu-item.png",
+            "alt": ""
+        },
+        "linkText": "View",
+        "duration": "2 mins",
+        "_pageLevelProgress": {
+            "_isEnabled": true,
+            "_showPageCompletion": false,
+            "_excludeAssessments": false,
+            "_isCompletionIndicatorEnabled": false
+        }
+    }
+]
