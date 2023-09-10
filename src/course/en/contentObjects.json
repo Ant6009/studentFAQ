@@ -3,21 +3,24 @@
         "_id": "co-05",
         "_parentId": "course",
         "_type": "page",
-        "_classes": "",
-        "_htmlClasses": "",
+        "_classes": "page-header-image",
+        "_htmlClasses": ".hide-nav-back-btn",
         "title": "Student FAQ",
         "displayTitle": "Student FAQ",
         "body": "",
         "pageBody": "",
         "instruction": "",
         "_graphic": {
-            "src": "",
+            "src": "course/en/images/StudentInLab_orig.jpeg",
             "alt": ""
+        },
+        "_navigationLogo": {
+            "_isEnabled": true
         },
         "linkText": "View",
         "duration": "2 mins",
         "_pageLevelProgress": {
-            "_isEnabled": true,
+            "_isEnabled": false,
             "_showPageCompletion": false,
             "_excludeAssessments": false,
             "_isCompletionIndicatorEnabled": false

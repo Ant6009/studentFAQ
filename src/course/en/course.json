@@ -33,6 +33,16 @@
     "remainingAttemptText": "final attempt",
     "disabledAriaLabel": "This button is disabled at the moment"
   },
+  "_navigationLogo": {
+    "_isEnabled": true,
+    "_graphic": {
+      "src": "assets/UU-logo.png",
+      "_mobileSrc": "",
+      "alt": ""
+    },
+    "_fillNavHeight": false,
+    "_hideLogoForMobile": true
+  },
   "_globals": {
     "_learnerInfo": {
       "id": "student.name@example.org",
@@ -66,6 +76,9 @@
       }
     },
     "_extensions": {
+      "_navigationLogo": {
+        "_navOrder": 0
+      },
       "_drawer": {
         "_navOrder": 100
       },
@@ -73,12 +86,9 @@
         "_skipButton": {
           "_navOrder": -100
         },
-        "_backButton": {
-          "_navOrder": 0
-        },
         "_spacers": [
           {
-            "_navOrder": 0
+            "_navOrder": 1
           }
         ]
       }
@@ -92,9 +102,9 @@
     "_isShownInNavigationBar": false
   },
   "_resources": {
-    "_isEnabled": false,
+    "_isEnabled": true,
     "title": "Resources",
-    "description": "View resources for this course by clicking here.",
+    "description": "Resources linked in this FAQ.",
     "_filterButtons": {
       "all": "All",
       "document": "Document",

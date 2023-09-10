@@ -99,6 +99,287 @@
               },
               "_classes": ""
             }
-        ]
+        ] 
+    },
+    {
+        "_id": "c-15",
+        "_parentId": "b-15",
+        "_type": "component",
+        "_component": "accordion",
+        "_classes": "",
+        "_layout": "full",
+        "title": "Accordion",
+        "displayTitle": "Word Counts",
+        "body": "",
+        "instruction": "Failing an Assessment or Module",
+        "_shouldCollapseItems": true,
+        "_shouldExpandFirstItem": false,
+        "_comment": "setCompletionOn = inview | allItems",
+        "_setCompletionOn": "allItems",
+        "_items": [
+            {
+              "title": "Can I go over the wordcount?",
+              "body": "<p>A little. You can exceed the word count by up to 10% of the word count but marks will then be deducted if you exceed the wordcount any further:</p><ul 'style=list-style: none;'><li>Up to 10%   - no penalty</li><li>>10% - 20% - 5% penalty</li><li>>20% - 30% - 10% penalty</li><li>>30% - 40% - 15% penalty</li><li>>40% - 50% - 20% penalty</li><li>>50% - maximum mark of 40% Ug/ 50%Pg</li></ul>",
+              "_imageAlignment": "full",
+              "_graphic": {
+                  "src": "",
+                  "alt": "",
+                  "attribution": ""
+              },
+              "_classes": ""
+            },
+            {
+              "title": "What if I don’t use all of the words required?",
+              "body": "Penalties are not formally applied if you fall short of the word count. However, you should note that by not making use of the full word limit, you run the risk of not answering the assignment question fully enough. This could lead to a reduced assignment mark. If you research a subject fully and from different perspectives, you will have more to write about and this deeper, informed understanding will lead to a higher grade.",
+              "_imageAlignment": "full",
+              "_graphic": {
+                  "src": "",
+                  "alt": "",
+                  "attribution": ""
+              },
+              "_classes": ""
+            }
+        ] 
+    },
+    {
+        "_id": "c-20",
+        "_parentId": "b-20",
+        "_type": "component",
+        "_component": "accordion",
+        "_classes": "",
+        "_layout": "full",
+        "title": "Accordion",
+        "displayTitle": "Struggling with your studies",
+        "body": "",
+        "instruction": "",
+        "_shouldCollapseItems": true,
+        "_shouldExpandFirstItem": false,
+        "_comment": "setCompletionOn = inview | allItems",
+        "_setCompletionOn": "allItems",
+        "_items": [
+            {
+              "title": "What should I do if I cannot get in for classes? ",
+              "body": "<p>Where possible, you should notify your Course Director if you plan to be absent from study. If your period of absence is more than five working days, you should arrange for a medical certificate to be presented to the Course Director within one week of returning from your absence period by completing a Notification of Absence Form (NA1).</p><a href='https://www.ulster.ac.uk/student/courses/attendance'>https://www.ulster.ac.uk/student/courses/attendance</a>",
+              "_imageAlignment": "full",
+              "_graphic": {
+                  "src": "",
+                  "alt": "",
+                  "attribution": ""
+              },
+              "_classes": ""
+            },
+            {
+              "title": "What do I do if I cannot submit my coursework on time? ",
+              "body": "<p>Depending on the reason, you should inform your Module Director. If there are Extenuating Circumstances, you should follow the policy and submit an EC1. If there are no Extenuating circumstances, penalties may be applied to your mark.</p><a href='https://www.ulster.ac.uk/__data/assets/pdf_file/0006/690513/Amended-EC1-Form-V2-Fillable.pdf'>EC 1</a>",
+              "_imageAlignment": "full",
+              "_graphic": {
+                  "src": "",
+                  "alt": "",
+                  "attribution": ""
+              },
+              "_classes": ""
+            },
+            {
+              "title": "I am experiencing some personal issues that are impacting on my studies. What can I do?",
+              "body": "<p>If this happens, speak to your course director in the first instance to check the support available to you. If personal issues impact your ability to complete an assessment on time, you can submit an <a href='https://www.ulster.ac.uk/__data/assets/pdf_file/0006/690513/Amended-EC1-Form-V2-Fillable.pdf'>EC1 (extenuating circumstances form)</a>.</p><p>If you feel that personal issues impact your ability to continue with your course, your Course Director can suggest a <a href='https://www.ulster.ac.uk/student/courses/attendance'>short-term absence</a> or a longer <a href='https://www.ulster.ac.uk/student/courses/attendance/leave-of-absence'>leave of absence</a> which allows you to take time out from your studies.</p> ",
+              "_imageAlignment": "full",
+              "_graphic": {
+                  "src": "",
+                  "alt": "",
+                  "attribution": ""
+              },
+              "_classes": ""
+            },
+            {
+              "title": "What to do if I cannot attend class",
+              "body": "<p>If you are unable to attend a class, contact your module coordinator to tell them. This is a courtesy and allows the tutor to note your absence in advance. If you are absent for more than 3 days, you must immediately notify your Course/Subject Director or your research supervisor.</p>Your Course Director can suggest <a href='https://www.ulster.ac.uk/student/courses/attendance'>short-term absence</a> or a longer <a href='https://www.ulster.ac.uk/student/courses/attendance/leave-of-absence'>leave of absence</a> which allows you to take time out from your studies if necessary.</p><p>If you are absent without approved leave for at least 4 weeks (or an aggregate of 4 weeks) in the semester, you will be withdrawn from your course. Always contact your Course Director to discuss your options if you are struggling.</p> ",
+              "_imageAlignment": "full",
+              "_graphic": {
+                  "src": "",
+                  "alt": "",
+                  "attribution": ""
+              },
+              "_classes": ""
+            },
+            {
+              "title": "What to do if I need an extension? ",
+              "body": "<p>If you are struggling to meet your assignment deadlines due to personal circumstances, you must immediately notify your Course/Subject Director or your research supervisor. </p>Your Course Director can suggest <a href='https://www.ulster.ac.uk/student/courses/attendance'>short-term absence</a> or a longer <a href='https://www.ulster.ac.uk/student/courses/attendance/leave-of-absence'>leave of absence</a> which allows you to take time out from your studies if necessary.</p>",
+              "_imageAlignment": "full",
+              "_graphic": {
+                  "src": "",
+                  "alt": "",
+                  "attribution": ""
+              },
+              "_classes": ""
+            }
+        ] 
+    },
+    {
+        "_id": "c-25",
+        "_parentId": "b-25",
+        "_type": "component",
+        "_component": "accordion",
+        "_classes": "",
+        "_layout": "full",
+        "title": "Accordion",
+        "displayTitle": "Plagiarism and Referencing",
+        "body": "",
+        "instruction": "",
+        "_shouldCollapseItems": true,
+        "_shouldExpandFirstItem": false,
+        "_comment": "setCompletionOn = inview | allItems",
+        "_setCompletionOn": "allItems",
+        "_items": [
+            {
+              "title": "What is meant by Referencing?",
+              "body": "<p>When writing a piece of coursework, you need to refer in your text to any material written or produced by others (in books, journal articles, interviews etc.). This process is called citing or quoting references. Failure to do so implies that what you have written is all your own work, when it isn’t. This failure to reference amounts to plagiarism, which is against University Regulations and is regarded as academic misconduct. </p><pHow you refence will depend completely on the referencing style being used (e.g., Harvard, OSCOLA, APA etc.) and your lecturer will confirm which one to use for coursework. Your Faculty<a href='https://www.ulster.ac.uk/library/contact/contact-subject-teams'> Subject Librarian</a> prepares guidance on how to adopt each referencing style and can advise you on how to use it. The Library also runs regular training sessions during semesters on how to reference, and details on these are available by contacting your Subject Librarian or by checking the <a href='https://www.ulster.ac.uk/library/help/training-and-workshops'>Training</a> page on the Library Homepage.",
+              "_imageAlignment": "full",
+              "_graphic": {
+                  "src": "",
+                  "alt": "",
+                  "attribution": ""
+              },
+              "_classes": ""
+            },
+            {
+              "title": "What happens if I don’t reference my work?",
+              "body": "<p>Some types of assessment may not require a reference list, but always check with your module coordinator or with your assessment brief first. Mostly though, assessments will require a reference list to demonstrate your wider reading and your sources of literature. If you don’t include citations and references, you will either fail the assessment due to your lack of reading and research, or you’ll fail due to plagiarism which is considered academic misconduct. </p>",
+              "_imageAlignment": "full",
+              "_graphic": {
+                  "src": "",
+                  "alt": "",
+                  "attribution": ""
+              },
+              "_classes": ""
+            },
+            {
+              "title": "How do I avoid Plagiarism? ",
+              "body": "<p>Take a look at this <a href='https://sway.office.com/PbPiDcOaWix5JLsd?ref=Link'>academic integrity resource</a> which will help you with your academic writing and help you to avoid plagiarism.</p><p>The library also provides <a href='https://www.ulster.ac.uk/library/help/training-and-workshops'>support for referencing</a>,</p>",
+              "_imageAlignment": "full",
+              "_graphic": {
+                  "src": "",
+                  "alt": "",
+                  "attribution": ""
+              },
+              "_classes": ""
+            },
+            {
+              "title": "How many references do I need in my bibliography? ",
+              "body": "<p>10% is a rough guide. </p><p>This is something you will need to check with each module coordinator as each assessment will vary in terms of design and expectations. However, as a rule of thumb, 10% of the word count is a useful guide. So, for a 20-credit module with a 4000-word count assignment, the bibliography would be approximately 40 references. It is important to reference sources of literature in your work to support the claims you are making. Having a suitable number of references demonstrates you have read widely around the subject. If you look at your assessment criteria, you will typically gain higher marks if you read more widely and incorporate this reading through referenced content. As a balance though, it is also important to allow your own voice to be heard through your work. It is considered poor academic practice to include lots of quotes in an assignment. A well-placed quote here or there is fine but overdoing it prevents your own words and your own (informed) opinions from shining through.</p>",
+              "_imageAlignment": "full",
+              "_graphic": {
+                  "src": "",
+                  "alt": "",
+                  "attribution": ""
+              },
+              "_classes": ""
+            },
+            {
+              "title": "What is Ulster’s Policy on AI (Artificial Intelligence)?",
+              "body": "<p>Generative AI tools (e.g., ChatGPT) can be used to support your learning and can help you to plan your assessments, but you must check usage with your module coordinators beforehand. While these tools can generate content that appears reasonable, you should be aware of their limitations. Generative AI tools must not be used to generate complete assignments (unless specifically directed by the Module Coordinator). </p>Gen AI limitations:<ul><li>Text generation tools do not understand the meaning of the words they produce. Generated content may follow a language pattern, but the content can be inaccurate.</li><li>The tools will often generate false references and quotations.</li><li>Content generated is not checked for accuracy and outputs can be factually incorrect.</li><li>The tools can distort the truth and emphasise the strength of an opposing argument.</li><li>Generated content can include harmful bias and reinforce stereotypes. </li><li>The models are trained on a data set from a Western English-speaking perspective again reinforcing particular perspectives.</li><li>The tools do not perform well on niche subjects that do not have a lot of public online discourse.</li><li>The content generated is based on an historical data set which is fixed in time. Generated content may already be outdated at the point of production.</li><li>There are copyright concerns in creative disciplines where existing creative works are used to generate new work without the permission of the original makers</li><li>An over-reliance on Generative AI tools can limit your ability to develop critical thinking, creativity, and innovation. </li></ul></p><p>As an Ulster student, you are expected to comply with University Regulations which include appropriate academic conduct. The Academic <a href='https://www.ulster.ac.uk/student/exams/cheating-and-plagiarism'>Misconduct Policy</a> has been updated to include the use of AI tools, and the policy includes guidelines for referencing the use of AI in academic work where appropriate. Learn more in: <a href='https://ulster.atlassian.net/wiki/spaces/BLS/pages/2170421249/Student+Guide+to+the+use+of+Generative+Artificial+Intelligence'>Guidance for students on the use of Gen AI</a></p>",
+              "_imageAlignment": "full",
+              "_graphic": {
+                  "src": "",
+                  "alt": "",
+                  "attribution": ""
+              },
+              "_classes": ""
+            }
+        ] 
+    },
+    {
+        "_id": "c-30",
+        "_parentId": "b-30",
+        "_type": "component",
+        "_component": "accordion",
+        "_classes": "",
+        "_layout": "full",
+        "title": "Accordion",
+        "displayTitle": "Study Support and Feedback",
+        "body": "",
+        "instruction": "",
+        "_shouldCollapseItems": true,
+        "_shouldExpandFirstItem": false,
+        "_comment": "setCompletionOn = inview | allItems",
+        "_setCompletionOn": "allItems",
+        "_items": [
+            {
+              "title": "Where can I get help with researching my assessments?",
+              "body": "<p>Your module coordinator will have provided you with a reading list in your module descriptor. This is a good starting point for researching your assessment subject area. </p><p>The Library team also provides fantastic support to help you search for books, journals, and e-resources.<a href='https://www.ulster.ac.uk/library/contact/contact-subject-teams'> Subject Librarian</a> ",
+              "_imageAlignment": "full",
+              "_graphic": {
+                  "src": "",
+                  "alt": "",
+                  "attribution": ""
+              },
+              "_classes": ""
+            },
+            {
+              "title": "What happens if I don’t reference my work?",
+              "body": "<p>Some types of assessment may not require a reference list, but always check with your module coordinator or with your assessment brief first. Mostly though, assessments will require a reference list to demonstrate your wider reading and your sources of literature. If you don’t include citations and references, you will either fail the assessment due to your lack of reading and research, or you’ll fail due to plagiarism which is considered academic misconduct. </p>",
+              "_imageAlignment": "full",
+              "_graphic": {
+                  "src": "",
+                  "alt": "",
+                  "attribution": ""
+              },
+              "_classes": ""
+            },
+            {
+              "title": "What is Studiosity?",
+              "body": "<a href='https://www.studiosity.com/service/access'>Studiosity</a> is an online service that provides additional study support around the clock for Ulster University students. ",
+              "_imageAlignment": "full",
+              "_graphic": {
+                  "src": "",
+                  "alt": "",
+                  "attribution": ""
+              },
+              "_classes": ""
+            },
+            {
+              "title": "I need some help with planning my assessment. Where can I go?",
+              "body": "Your module coordinator will provide an assessment brief and marking guide which explains the requirements of assessment tasks. Make sure you attend all assessment briefings, associated workshops or tutorials within the module. The library will provide guidance on literature searching and referencing too. ",
+              "_imageAlignment": "full",
+              "_graphic": {
+                  "src": "",
+                  "alt": "",
+                  "attribution": ""
+              },
+              "_classes": ""
+            },
+            {
+              "title": "I have an assessment coming up and I am really anxious about it. What should I do?",
+              "body": "<p>Don’t panic. Check in with your module coordinator in the first instance to explain what’s required for the assessment task. You also have further support available to you:</p><ul><li>Learn how to reference and cite correctly – <a href='https://www.ulster.ac.uk/library/help/training-and-workshops'>Library Guidance</a></li><li>Academic support and mental wellbeing support - <a href='https://www.ulster.ac.uk/wellbeing/health-and-wellbeing/academic-problems'>Student Wellbeing</a></li><li>Academic Writing support for international students - <a href='https://www.ulster.ac.uk/global/apply/english-language-requirements/in-sessional-english-support'>Centre for English Language Teaching</a></li><li>PASS - <a href='https://www.ulster.ac.uk/about/widening-access/initiatives/pass'>Peer Assisted Study Session</a></li><li>Online study support service - <a href='https://www.studiosity.com/service/access'>Studiosity</a> - (access using your student email)</li><li>Originality checking service - <a href='https://help.turnitin.com/feedback-studio/turnitin-website/student/the-similarity-report/accessing-the-similarity-report.htm'>Turnitin</a></li><li>Further support is also available through your Studies Advisors and the wider course team.</li></ul></p>",
+              "_imageAlignment": "full",
+              "_graphic": {
+                  "src": "",
+                  "alt": "",
+                  "attribution": ""
+              },
+              "_classes": ""
+            },
+            {
+              "title": "Can I submit my assessment to staff and get feedback on how to improve it before the deadline?",
+              "body": "Yes, receiving initial feedback on a piece of draft work is a useful learning exercise. Check with your tutor for tutorial availability. However, it is not appropriate to constantly ask for feedback on each draft you create, as the work must be your own. Your tutor will be able to give feedback on about 10% of your draft work. This could be feedback on your assignment plan for example, to check you are heading in the right direction. ",
+              "_imageAlignment": "full",
+              "_graphic": {
+                  "src": "",
+                  "alt": "",
+                  "attribution": ""
+              },
+              "_classes": ""
+            },
+            {
+              "title": "Will I receive feedback with a marked piece of assessment?",
+              "body": "<p>Yes. Receiving prompt feedback is an important aspect of the learning process and your tutor will aim to send you feedback within 20 days of the assessment submission date. Feedback might be received individually or as a group. </p><p>On receiving this feedback, it is important for you to read/listen to it, reflect on it and make an action plan so that you keep developing and improving your work. The format of this feedback will vary and will depend on the nature of the assessment and/or the module coordinator’s preference. Check with your module coordinator on how, where, and when to receive this feedback.</p>",
+              "_imageAlignment": "full",
+              "_graphic": {
+                  "src": "",
+                  "alt": "",
+                  "attribution": ""
+              },
+              "_classes": ""
+            }
+        ] 
     }
 ]
