@@ -305,18 +305,7 @@
         "_items": [
             {
               "title": "Where can I get help with researching my assessments?",
-              "body": "<p>Your module coordinator will have provided you with a reading list in your module descriptor. This is a good starting point for researching your assessment subject area. </p><p>The Library team also provides fantastic support to help you search for books, journals, and e-resources.<a href='https://www.ulster.ac.uk/library/contact/contact-subject-teams'> Subject Librarian</a> ",
-              "_imageAlignment": "full",
-              "_graphic": {
-                  "src": "",
-                  "alt": "",
-                  "attribution": ""
-              },
-              "_classes": ""
-            },
-            {
-              "title": "What happens if I don’t reference my work?",
-              "body": "<p>Some types of assessment may not require a reference list, but always check with your module coordinator or with your assessment brief first. Mostly though, assessments will require a reference list to demonstrate your wider reading and your sources of literature. If you don’t include citations and references, you will either fail the assessment due to your lack of reading and research, or you’ll fail due to plagiarism which is considered academic misconduct. </p>",
+              "body": "<p>Your module coordinator will have provided you with a reading list in your module descriptor. This is a good starting point for researching your assessment subject area. </p><p>Your <a href='https://www.ulster.ac.uk/library/contact/contact-subject-teams'> Subject Librarian</a> will be delivering timetabled workshops to ensure you are able to make the best use of the <a href='https://www.ulster.ac.uk/library'>Library’s services and information resources</a> in successfully completing your coursework. Furthermore, if you need specific help with an assignment or dissertation then you can make an appointment to meet with your Subject Librarian by email, phone or through using the <a href='https://www.ulster.ac.uk/library/contact/contact-subject-teams/subject-support-appointments'>appointments schedule</a>. ",
               "_imageAlignment": "full",
               "_graphic": {
                   "src": "",
