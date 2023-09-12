@@ -1,0 +1,16 @@
+{{! Maintainer - Kunj kunjsharma@hotmail.com}}
+<div class="footer-inner">
+	<div class="footer-item-container">
+	{{#each _items}}
+	<div class="footer-item">
+		<div class="footer-item-title-container">
+			{{#each _titles}}
+				<div class="footer-item-title footer-item-title-{{@index}}">
+					{{{title}}}
+				</div>
+			{{/each}}
+		</div>
+	</div>
+	{{/each}}
+	</div>
+</div>
