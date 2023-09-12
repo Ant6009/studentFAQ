@@ -119,28 +119,64 @@
     },
     "_resourcesItems": [
       {
-        "_type": "document",
-        "title": "Vanilla Theme Swatch",
-        "description": "See the swatch for the vanilla theme by clicking here.",
-        "_link": "course/en/images/vanilla-swatch.jpg"
-      },
-      {
-        "_type": "media",
-        "title": "Adapt Learning YouTube Channel",
-        "description": "Fancy catching up on some Adapt material? Click here.",
-        "_link": "https://www.youtube.com/channel/UCW8SlSFuCc--B66Gf9fAEcQ"
+        "_type": "link",
+        "title": "Student Appeal",
+        "description": "",
+        "_link": "https://www.ulster.ac.uk/student/exams/appeals"
       },
       {
         "_type": "link",
-        "title": "Adapt Project Site",
-        "description": "View the project's web site by clicking here.",
-        "_link": "https://www.adaptlearning.org/"
+        "title": "Consequences of failure",
+        "description": "",
+        "_link": "https://ulster.sharepoint.com/:w:/r/sites/courseteamhandbook/Shared Documents/Guidance/Assessment Management/Consequences of Failure.docx?d=w97ad4d5164094b70b273d98ca1aa6e5f&csf=1&web=1&e=9ahHMn"
       },
       {
         "_type": "link",
-        "title": "Framework chat",
-        "description": "Join the framework chat room by clicking here.",
-        "_link": "https://gitter.im/adaptlearning/adapt_framework"
+        "title": "Attendance",
+        "description": "Web page with attendance information and forms",
+        "_link": "https://www.ulster.ac.uk/student/courses/attendance"
+      },
+      {
+        "_type": "link",
+        "title": "Extenuating circumstances",
+        "description": "Web page with information and forms relating to extenuating circumstances",
+        "_link": "https://www.ulster.ac.uk/student/exams/extenuating-circumstances"
+      },
+      {
+        "_type": "link",
+        "title": "Leave of absence",
+        "description": "",
+        "_link": "https://www.ulster.ac.uk/student/courses/attendance/leave-of-absence"
+      },
+      {
+        "_type": "link",
+        "title": "Library Contacts",
+        "description": "",
+        "_link": "https://www.ulster.ac.uk/library/contact/contact-subject-teams"
+      },
+      {
+        "_link": "https://www.ulster.ac.uk/library/help/training-and-workshops",
+        "_type": "link",
+        "title": "Library Services Training and Worshops",
+        "description": ""
+      },
+      {
+        "_type": "link",
+        "title": "Academic integrity resource ",
+        "description": "",
+        "_link": "https://sway.office.com/PbPiDcOaWix5JLsd?ref=Link"
+      },
+      {
+        "_type": "link",
+        "title": "Academic Misconduct Policy",
+        "description": "",
+        "_link": "https://www.ulster.ac.uk/student/exams/cheating-and-plagiarism"
+      },
+      {
+        "_type": "link",
+        "title": "Guidance for students on the use of Gen AI",
+        "description": "",
+        "_link": "https://ulster.atlassian.net/wiki/spaces/BLS/pages/2170421249/Student+Guide+to+the+use+of+Generative+Artificial+Intelligence"
       }
     ]
   },
