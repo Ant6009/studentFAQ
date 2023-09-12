@@ -381,5 +381,20 @@
               "_classes": ""
             }
         ] 
+    },
+    {
+        "_id": "c-35",
+        "_parentId": "b-35",
+        "_type": "component",
+        "_component": "text",
+        "_classes": "",
+        "_layout": "full",
+        "title": "More questuions?",
+        "displayTitle": "Suggest a question",
+        "body": "<p>Didn't find the answer you were looking for? You can suggest a question here, and we will review it. We are keeping FAQ up to date, so if you find a link that stopped working or an answer that is not accurate or relevant, use the same form to let us know.</p><a href='https://forms.office.com/e/Hj3EHVARwL'> Click to open the form</a>",
+        "instruction": "",
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
     }
 ]

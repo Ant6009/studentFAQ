@@ -64,5 +64,16 @@
         "body": "",
         "instruction": "",
         "_trackingId": 5
+    },
+    {
+        "_id": "b-35",
+        "_parentId": "a-35",
+        "_type": "block",
+        "_classes": "",
+        "title": "accordion block",
+        "displayTitle": "",
+        "body": "",
+        "instruction": "",
+        "_trackingId": 6
     }
 ]
