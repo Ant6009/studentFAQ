@@ -1,6 +1,6 @@
 .page {
   &__header {
-    height: 16rem;
+    height: 6rem;
   }
 } 
 
@@ -60,14 +60,14 @@
 
   &__back-btn {
     & when (@hide-nav = true) {
-      display: none;
+      display: flex;
     }
   }
 
   &__home-btn {
     .u-float-left; 
     & when (@hide-nav = true) {
-      display: none;
+      display: flex;
     }
   }
 
@@ -76,20 +76,23 @@
   }
 }
 
-.page__header::before {
-  content: "";
-  position: absolute;
-  top: 0;
-  right: 0;
-  bottom: 0;
-  left: 0;
+.page__header .background {
   background-image: url('course/en/images/StudentInLab_short.jpeg');
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
-  opacity: 0.5;
-  z-index: -1; /* This will place the pseudo element below the contents of .page__header */
 }
+//.page__header::before {
+//  content: "";
+//  position: absolute;
+//  top: 0;
+//  right: 0;
+//  bottom: 0;
+//  left: 0;
+//  background-image: url('course/en/images/StudentInLab_short.jpeg');
+//  background-size: cover;
+//  background-position: center;
+//  background-repeat: no-repeat;
+//  opacity: 0.5;
+//  z-index: -1; /* This will place the pseudo element below the contents of .page__header */
+//}
 
 .alternate-bg {
   background-color: #f5f5f5;

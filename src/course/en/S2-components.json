@@ -1,0 +1,95 @@
+
+[
+    {
+        "_id": "S2c-05",
+        "_parentId": "S1b-05",
+        "_type": "component",
+        "_component": "accordion",
+        "_classes": "",
+        "_layout": "full",
+        "title": "Accordion",
+        "displayTitle": "Pass Grades",
+        "body": "",
+        "instruction": "Select the headings to find out more.",
+        "_shouldCollapseItems": true,
+        "_shouldExpandFirstItem": false,
+        "_comment": "setCompletionOn = inview | allItems",
+        "_setCompletionOn": "allItems",
+        "_items": [
+            {
+              "title": "What grade do I need to pass the module?",
+              "body": "The pass grade for undergraduate modules is 40% <br>The pass grade for postgraduate modules is 50% <br>(Note that some modules will have pass/fail assessment elements and some specialist assessments may have higher pass grades, so always check with your module coordinator).",
+              "_imageAlignment": "full",
+              "_graphic": {
+                  "src": "",
+                  "alt": "",
+                  "attribution": ""
+              },
+              "_classes": ""
+            },
+            {
+              "title": "What do I do if I am unhappy with the mark I receive for my assessment?",
+              "body": "<p>Firstly, contact the module coordinator or the person who marked your assessment to discuss your mark and feedback. They will explain why you received a particular grade.</p><p>If you feel there were extenuating circumstances that impacted your performance and these were not previously available at the Exam Board, you can follow the <a href='https://ulster.ac.uk/strudent/exams/appeals'>student appeals</a> procedure.</p><p>If you feel that there were procedural irregularities associated with the assessment, you can follow the <a href='https://ulster.ac.uk/strudent/exams/appeals'>student appeals</a> procedure.</p>",
+              "_imageAlignment": "full",
+              "_graphic": {
+                  "src": "",
+                  "alt": "",
+                  "attribution": ""
+              },
+              "_classes": ""
+            },
+            {
+              "title": "What will happen if I do not pass this module?",
+              "body": "If you fail a module, you will get two more attempts if you are studying an undergraduate course. If you are studying a postgraduate course, you will get one more attempt. Check with your module coordinator for revision support and for the re-sit schedule. ",
+              "_imageAlignment": "",
+              "_graphic": {
+                  "src": "",
+                  "alt": "",
+                  "attribution": ""
+              },
+              "_classes": ""
+            }
+        ]
+    },
+
+    {
+        "_id": "S2c-10",
+        "_parentId": "S2b-10",
+        "_type": "component",
+        "_component": "accordion",
+        "_classes": "",
+        "_layout": "full",
+        "title": "Accordion",
+        "displayTitle": "Failing an Assessment or Module",
+        "body": "",
+        "instruction": "Select the headings to find out more.",
+        "_shouldCollapseItems": true,
+        "_shouldExpandFirstItem": false,
+        "_comment": "setCompletionOn = inview | allItems",
+        "_setCompletionOn": "allItems",
+        "_items": [
+            {
+              "title": "What happens if I fail one element of the assessment? ",
+              "body": "<p>If you fail an assessment, firstly don’t panic!</p><p>In some module instances and where there is more than one assessment element, (e.g. exam and coursework) an overall module mark will be calculated. If you failed one element at 35-39% (undergraduate) or 45-49% (postgraduate), but passed the other element, then you may still have passed the module overall. Check your status with your module coordinator. </p><p>However, if your grade was below 35% (Ug) or 45%(Pg), or the element was compulsory to pass the module, you will still get further attempts at the assessment. Check with your module coordinator for revision support and for the re-sit schedule.</p><p>Note that where the assessment strategy for a module is 100% coursework element, and the coursework is made up of several component tasks (like a portfolio of tasks), then if you fail one component (even below 35% Ug or 45% Pg) but pass the coursework overall, then you will have passed the module. </p> ",
+              "_imageAlignment": "full",
+              "_graphic": {
+                  "src": "",
+                  "alt": "",
+                  "attribution": ""
+              },
+              "_classes": ""
+            },
+            {
+              "title": "I have passed my assessment, but I am not happy with my mark. Can I retake the assessment?",
+              "body": "Assessment retakes (re-sits) are typically only available if you happen to fail an exam or piece of coursework that would lead to you failing a module. If you achieve a minimum pass grade or above (40% or above for undergraduate or 50% or above at postgraduate) then that grade will be confirmed at Exam Board, and you will not have another opportunity to retake. Sometimes, a module will have more than one element of assessment. (see ‘What happens if I fail one element of the assessment’). ",
+              "_imageAlignment": "",
+              "_graphic": {
+                  "src": "",
+                  "alt": "",
+                  "attribution": ""
+              },
+              "_classes": ""
+            }
+        ] 
+    }
+]

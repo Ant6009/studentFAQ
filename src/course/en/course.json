@@ -4,7 +4,7 @@
   "_classes": "",
   "_htmlClasses": "",
   "title": "Student FAQ",
-  "displayTitle": "Student FAQ",
+  "displayTitle": "Student FAQs",
   "description": "",
   "body": "",
   "instruction": "",
@@ -77,7 +77,7 @@
     },
     "_extensions": {
       "_navigationLogo": {
-        "_navOrder": 0
+        "_navOrder": 1
       },
       "_drawer": {
         "_navOrder": 100
@@ -86,15 +86,18 @@
         "_skipButton": {
           "_navOrder": -100
         },
+        "backButton": {
+          "_navOrder": 0 
+        },
         "_spacers": [
           {
-            "_navOrder": 1
+            "_navOrder": 0
           }
         ]
       }
     }
   },
-  "_latestTrackingId": 19,
+  "_latestTrackingId": 21,
   "_pageLevelProgress": {
     "_isEnabled": false,
     "_showPageCompletion": false,
@@ -181,7 +184,7 @@
     ]
   },
   "_start": {
-    "_isEnabled": true,
+    "_isEnabled": false,
     "_startIds": [
       {
         "_id": "co-05",

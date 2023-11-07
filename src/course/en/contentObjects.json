@@ -6,7 +6,7 @@
         "_classes": "",
         "_htmlClasses": ".hide-nav-back-btn",
         "title": "Student FAQ",
-        "displayTitle": "Student FAQ",
+        "displayTitle": "About your studies",
         "body": "",
         "pageBody": "",
         "instruction": "",
@@ -18,7 +18,61 @@
             "_isEnabled": true
         },
         "linkText": "View",
-        "duration": "2 mins",
+        "duration": "",
+        "_pageLevelProgress": {
+            "_isEnabled": false,
+            "_showPageCompletion": false,
+            "_excludeAssessments": false,
+            "_isCompletionIndicatorEnabled": false
+        }
+    },
+    {
+        "_id": "co-10",
+        "_parentId": "course",
+        "_type": "page",
+        "_classes": "",
+        "_htmlClasses": ".hide-nav-back-btn",
+        "title": "Student FAQ",
+        "displayTitle": "Campus life",
+        "body": "",
+        "pageBody": "",
+        "instruction": "",
+        "_graphic": {
+            "src": "course/en/images/StudentInLab_orig.jpeg",
+            "alt": ""
+        },
+        "_navigationLogo": {
+            "_isEnabled": true
+        },
+        "linkText": "View",
+        "duration": "",
+        "_pageLevelProgress": {
+            "_isEnabled": false,
+            "_showPageCompletion": false,
+            "_excludeAssessments": false,
+            "_isCompletionIndicatorEnabled": false
+        }
+    },
+    {
+        "_id": "co-15",
+        "_parentId": "course",
+        "_type": "page",
+        "_classes": "",
+        "_htmlClasses": ".hide-nav-back-btn",
+        "title": "Student FAQ",
+        "displayTitle": "Adulting",
+        "body": "",
+        "pageBody": "",
+        "instruction": "",
+        "_graphic": {
+            "src": "course/en/images/StudentInLab_orig.jpeg",
+            "alt": ""
+        },
+        "_navigationLogo": {
+            "_isEnabled": true
+        },
+        "linkText": "View",
+        "duration": "",
         "_pageLevelProgress": {
             "_isEnabled": false,
             "_showPageCompletion": false,
